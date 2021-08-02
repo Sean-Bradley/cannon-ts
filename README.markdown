@@ -1,4 +1,10 @@
-# cannon.js
+# Cannon TS
+
+Work in progress,
+
+Attempting a complete rewrite using TypeScript
+
+Forked from https://github.com/schteppe/cannon.js
 
 ### Lightweight 3D physics for the web
 Inspired by [three.js](https://github.com/mrdoob/three.js) and [ammo.js](https://github.com/kripken/ammo.js), and driven by the fact that the web lacks a physics engine, here comes cannon.js.
