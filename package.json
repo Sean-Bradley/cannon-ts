@@ -18,7 +18,9 @@
     "engine",
     "3d"
   ],
-  "contributors": ["Stefan Hedman (https://github.com/schteppe) : Author of original cannon.js"],
+  "contributors": [
+    "Stefan Hedman (https://github.com/schteppe) : Author of original cannon.js (https://github.com/schteppe/cannon.js)"
+  ],
   "author": "Sean Bradley : Maintainer of this fork",
   "license": "MIT",
   "bugs": {
